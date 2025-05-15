@@ -1,0 +1,13 @@
+receptor = nfkb.pdbqt
+ligand = Withaferin A.pdbqt
+
+center_x = 2.436
+center_y = 65.178
+center_z = 42.280
+
+size_x = 16.791
+size_y = 18.439
+size_z = 18.153
+
+out = Withaferin A_out.pdbqt
+log = Withaferin A_log.txt

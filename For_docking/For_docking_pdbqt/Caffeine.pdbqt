@@ -1,0 +1,25 @@
+REMARK  Name = .\Caffeine.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N3_9  and  C8_14
+REMARK    3  A    between atoms: N4_12  and  C7_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1       2.666  -2.006   0.039  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1       2.042  -0.688  -0.023  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1       2.672   0.512  -0.063  0.00  0.00    +0.000 C 
+ATOM      4  N2  UNL     1       1.814   1.564  -0.098  0.00  0.00    +0.000 NA
+ATOM      5  C3  UNL     1       0.605   0.967  -0.081  0.00  0.00    +0.000 C 
+ATOM      6  C4  UNL     1       0.735  -0.379  -0.033  0.00  0.00    +0.000 C 
+ATOM      7  C5  UNL     1      -0.388  -1.194   0.018  0.00  0.00    +0.000 C 
+ATOM      8  O1  UNL     1      -0.267  -2.448   0.084  0.00  0.00    +0.000 OA
+ATOM      9  N3  UNL     1      -1.628  -0.595   0.005  0.00  0.00    +0.000 N 
+ATOM     10  C6  UNL     1      -1.735   0.786  -0.014  0.00  0.00    +0.000 C 
+ATOM     11  O2  UNL     1      -2.875   1.328   0.043  0.00  0.00    +0.000 OA
+ATOM     12  N4  UNL     1      -0.609   1.580  -0.086  0.00  0.00    +0.000 N 
+ATOM     13  C7  UNL     1      -0.711   3.045  -0.083  0.00  0.00    +0.000 C 
+ATOM     14  C8  UNL     1      -2.842  -1.423   0.097  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0

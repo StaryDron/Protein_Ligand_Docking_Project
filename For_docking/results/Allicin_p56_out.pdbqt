@@ -1,0 +1,369 @@
+MODEL 1
+REMARK VINA RESULT:      -4.1      0.000      0.000
+REMARK  Name = .\Allicin.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  O1_10
+REMARK    3  A    between atoms: C3_3  and  C4_4
+REMARK    4  A    between atoms: C4_4  and  S1_5
+REMARK    5  A    between atoms: S1_5  and  S2_6
+REMARK    6  A    between atoms: S2_6  and  C5_7
+REMARK    7  A    between atoms: C5_7  and  C6_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -3.434  71.527 111.183  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      2  C1  UNL     1      -4.468  67.800 111.203  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1      -3.814  69.097 111.579  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1      -4.048  70.197 110.853  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  O1  UNL     1      -2.978  69.156 112.694  0.00  0.00    +0.000 OA
+ATOM      6  H12 UNL     1      -3.348  69.129 113.637  0.00  0.00    +0.000 HD
+ENDBRANCH   3   5
+ENDBRANCH   1   4
+BRANCH   1   7
+ATOM      7  S1  UNL     1      -3.662  72.710 109.812  0.00  0.00    +0.000 S 
+BRANCH   7   8
+ATOM      8  S2  UNL     1      -3.067  74.413 110.961  0.00  0.00    +0.000 S 
+BRANCH   8   9
+ATOM      9  C5  UNL     1      -4.532  75.402 110.515  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C6  UNL     1      -5.635  74.502 110.037  0.00  0.00    +0.000 C 
+ATOM     11  C7  UNL     1      -6.892  74.633 110.471  0.00  0.00    +0.000 C 
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.0      0.811      1.430
+REMARK  Name = .\Allicin.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  O1_10
+REMARK    3  A    between atoms: C3_3  and  C4_4
+REMARK    4  A    between atoms: C4_4  and  S1_5
+REMARK    5  A    between atoms: S1_5  and  S2_6
+REMARK    6  A    between atoms: S2_6  and  C5_7
+REMARK    7  A    between atoms: C5_7  and  C6_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -3.247  71.221 111.074  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      2  C1  UNL     1      -4.357  67.534 111.434  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1      -3.688  68.850 111.699  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1      -3.877  69.876 110.859  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  O1  UNL     1      -2.883  69.006 112.827  0.00  0.00    +0.000 OA
+ATOM      6  H12 UNL     1      -1.966  69.434 112.770  0.00  0.00    +0.000 HD
+ENDBRANCH   3   5
+ENDBRANCH   1   4
+BRANCH   1   7
+ATOM      7  S1  UNL     1      -3.909  72.448 109.896  0.00  0.00    +0.000 S 
+BRANCH   7   8
+ATOM      8  S2  UNL     1      -3.550  74.121 111.180  0.00  0.00    +0.000 S 
+BRANCH   8   9
+ATOM      9  C5  UNL     1      -5.036  75.031 110.644  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C6  UNL     1      -4.729  75.842 109.418  0.00  0.00    +0.000 C 
+ATOM     11  C7  UNL     1      -3.524  76.379 109.209  0.00  0.00    +0.000 C 
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.9      2.974      5.899
+REMARK  Name = .\Allicin.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  O1_10
+REMARK    3  A    between atoms: C3_3  and  C4_4
+REMARK    4  A    between atoms: C4_4  and  S1_5
+REMARK    5  A    between atoms: S1_5  and  S2_6
+REMARK    6  A    between atoms: S2_6  and  C5_7
+REMARK    7  A    between atoms: C5_7  and  C6_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -2.234  73.230 110.177  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      2  C1  UNL     1      -4.182  76.550 109.803  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1      -3.456  75.282 109.466  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1      -2.960  74.517 110.446  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  O1  UNL     1      -3.314  74.895 108.133  0.00  0.00    +0.000 OA
+ATOM      6  H12 UNL     1      -3.221  75.577 107.390  0.00  0.00    +0.000 HD
+ENDBRANCH   3   5
+ENDBRANCH   1   4
+BRANCH   1   7
+ATOM      7  S1  UNL     1      -3.282  71.792 110.582  0.00  0.00    +0.000 S 
+BRANCH   7   8
+ATOM      8  S2  UNL     1      -1.632  70.495 110.997  0.00  0.00    +0.000 S 
+BRANCH   8   9
+ATOM      9  C5  UNL     1      -2.624  69.310 111.962  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C6  UNL     1      -3.954  69.091 111.300  0.00  0.00    +0.000 C 
+ATOM     11  C7  UNL     1      -4.509  67.879 111.212  0.00  0.00    +0.000 C 
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.9      2.441      5.605
+REMARK  Name = .\Allicin.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  O1_10
+REMARK    3  A    between atoms: C3_3  and  C4_4
+REMARK    4  A    between atoms: C4_4  and  S1_5
+REMARK    5  A    between atoms: S1_5  and  S2_6
+REMARK    6  A    between atoms: S2_6  and  C5_7
+REMARK    7  A    between atoms: C5_7  and  C6_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -3.054  73.678 111.917  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      2  C1  UNL     1      -5.034  75.852 109.404  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1      -4.703  74.988 110.586  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1      -3.454  74.536 110.751  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  O1  UNL     1      -5.693  74.672 111.516  0.00  0.00    +0.000 OA
+ATOM      6  H12 UNL     1      -6.402  75.344 111.785  0.00  0.00    +0.000 HD
+ENDBRANCH   3   5
+ENDBRANCH   1   4
+BRANCH   1   7
+ATOM      7  S1  UNL     1      -2.053  72.254 111.367  0.00  0.00    +0.000 S 
+BRANCH   7   8
+ATOM      8  S2  UNL     1      -3.672  71.293 110.354  0.00  0.00    +0.000 S 
+BRANCH   8   9
+ATOM      9  C5  UNL     1      -3.058  69.607 110.675  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C6  UNL     1      -4.073  68.832 111.465  0.00  0.00    +0.000 C 
+ATOM     11  C7  UNL     1      -4.314  67.538 111.229  0.00  0.00    +0.000 C 
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.9      3.112      6.079
+REMARK  Name = .\Allicin.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  O1_10
+REMARK    3  A    between atoms: C3_3  and  C4_4
+REMARK    4  A    between atoms: C4_4  and  S1_5
+REMARK    5  A    between atoms: S1_5  and  S2_6
+REMARK    6  A    between atoms: S2_6  and  C5_7
+REMARK    7  A    between atoms: C5_7  and  C6_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -5.380  74.454 109.998  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      2  C1  UNL     1      -3.280  77.586 109.140  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1      -4.323  76.510 109.070  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1      -4.356  75.551 110.004  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  O1  UNL     1      -5.264  76.520 108.041  0.00  0.00    +0.000 OA
+ATOM      6  H12 UNL     1      -5.939  75.772 107.932  0.00  0.00    +0.000 HD
+ENDBRANCH   3   5
+ENDBRANCH   1   4
+BRANCH   1   7
+ATOM      7  S1  UNL     1      -4.607  72.840 109.639  0.00  0.00    +0.000 S 
+BRANCH   7   8
+ATOM      8  S2  UNL     1      -3.123  73.022 111.169  0.00  0.00    +0.000 S 
+BRANCH   8   9
+ATOM      9  C5  UNL     1      -2.718  71.245 111.184  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C6  UNL     1      -3.938  70.436 110.851  0.00  0.00    +0.000 C 
+ATOM     11  C7  UNL     1      -4.089  69.177 111.273  0.00  0.00    +0.000 C 
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.8      3.124      5.988
+REMARK  Name = .\Allicin.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  O1_10
+REMARK    3  A    between atoms: C3_3  and  C4_4
+REMARK    4  A    between atoms: C4_4  and  S1_5
+REMARK    5  A    between atoms: S1_5  and  S2_6
+REMARK    6  A    between atoms: S2_6  and  C5_7
+REMARK    7  A    between atoms: C5_7  and  C6_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -2.939  73.606 109.886  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      2  C1  UNL     1      -3.664  77.358 109.292  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1      -3.427  75.899 109.041  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1      -3.174  75.078 110.068  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  O1  UNL     1      -3.486  75.398 107.740  0.00  0.00    +0.000 OA
+ATOM      6  H12 UNL     1      -3.614  74.410 107.557  0.00  0.00    +0.000 HD
+ENDBRANCH   3   5
+ENDBRANCH   1   4
+BRANCH   1   7
+ATOM      7  S1  UNL     1      -2.556  72.803 111.480  0.00  0.00    +0.000 S 
+BRANCH   7   8
+ATOM      8  S2  UNL     1      -1.204  71.381 110.628  0.00  0.00    +0.000 S 
+BRANCH   8   9
+ATOM      9  C5  UNL     1      -2.522  70.261 110.054  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C6  UNL     1      -3.560  70.095 111.126  0.00  0.00    +0.000 C 
+ATOM     11  C7  UNL     1      -4.000  68.891 111.505  0.00  0.00    +0.000 C 
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.6      2.893      3.296
+REMARK  Name = .\Allicin.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  O1_10
+REMARK    3  A    between atoms: C3_3  and  C4_4
+REMARK    4  A    between atoms: C4_4  and  S1_5
+REMARK    5  A    between atoms: S1_5  and  S2_6
+REMARK    6  A    between atoms: S2_6  and  C5_7
+REMARK    7  A    between atoms: C5_7  and  C6_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -2.150  70.142 110.041  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      2  C1  UNL     1      -2.605  66.862 108.044  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1      -2.224  68.268 108.401  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1      -2.514  68.748 109.617  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  O1  UNL     1      -1.556  69.065 107.472  0.00  0.00    +0.000 OA
+ATOM      6  H12 UNL     1      -1.462  70.065 107.602  0.00  0.00    +0.000 HD
+ENDBRANCH   3   5
+ENDBRANCH   1   4
+BRANCH   1   7
+ATOM      7  S1  UNL     1      -3.410  70.833 111.166  0.00  0.00    +0.000 S 
+BRANCH   7   8
+ATOM      8  S2  UNL     1      -3.976  72.409 109.835  0.00  0.00    +0.000 S 
+BRANCH   8   9
+ATOM      9  C5  UNL     1      -2.521  73.439 110.212  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C6  UNL     1      -2.890  74.894 110.151  0.00  0.00    +0.000 C 
+ATOM     11  C7  UNL     1      -3.554  75.412 109.113  0.00  0.00    +0.000 C 
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.5      3.226      6.000
+REMARK  Name = .\Allicin.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  O1_10
+REMARK    3  A    between atoms: C3_3  and  C4_4
+REMARK    4  A    between atoms: C4_4  and  S1_5
+REMARK    5  A    between atoms: S1_5  and  S2_6
+REMARK    6  A    between atoms: S2_6  and  C5_7
+REMARK    7  A    between atoms: C5_7  and  C6_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -2.979  71.601 110.509  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      2  C1  UNL     1      -3.042  75.388 109.729  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1      -3.237  73.907 109.601  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1      -2.804  73.091 110.570  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  O1  UNL     1      -3.882  73.385 108.480  0.00  0.00    +0.000 OA
+ATOM      6  H12 UNL     1      -3.705  72.440 108.158  0.00  0.00    +0.000 HD
+ENDBRANCH   3   5
+ENDBRANCH   1   4
+BRANCH   1   7
+ATOM      7  S1  UNL     1      -1.635  70.748 111.402  0.00  0.00    +0.000 S 
+BRANCH   7   8
+ATOM      8  S2  UNL     1      -2.819  69.033 111.886  0.00  0.00    +0.000 S 
+BRANCH   8   9
+ATOM      9  C5  UNL     1      -1.991  67.946 110.681  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C6  UNL     1      -2.687  68.024 109.353  0.00  0.00    +0.000 C 
+ATOM     11  C7  UNL     1      -2.015  68.212 108.213  0.00  0.00    +0.000 C 
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.5      2.918      5.366
+REMARK  Name = .\Allicin.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  O1_10
+REMARK    3  A    between atoms: C3_3  and  C4_4
+REMARK    4  A    between atoms: C4_4  and  S1_5
+REMARK    5  A    between atoms: S1_5  and  S2_6
+REMARK    6  A    between atoms: S2_6  and  C5_7
+REMARK    7  A    between atoms: C5_7  and  C6_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -1.890  72.064 111.340  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      2  C1  UNL     1      -3.479  74.733 109.036  0.00  0.00    +0.000 C 
+ATOM      3  C2  UNL     1      -3.271  73.781 110.176  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1      -2.165  73.027 110.221  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  O1  UNL     1      -4.221  73.695 111.193  0.00  0.00    +0.000 OA
+ATOM      6  H12 UNL     1      -4.032  73.197 112.055  0.00  0.00    +0.000 HD
+ENDBRANCH   3   5
+ENDBRANCH   1   4
+BRANCH   1   7
+ATOM      7  S1  UNL     1      -0.493  70.965 110.927  0.00  0.00    +0.000 S 
+BRANCH   7   8
+ATOM      8  S2  UNL     1      -1.736  69.374 110.221  0.00  0.00    +0.000 S 
+BRANCH   8   9
+ATOM      9  C5  UNL     1      -2.832  69.395 111.676  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C6  UNL     1      -4.216  68.964 111.285  0.00  0.00    +0.000 C 
+ATOM     11  C7  UNL     1      -4.544  67.675 111.150  0.00  0.00    +0.000 C 
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 6
+ENDMDL

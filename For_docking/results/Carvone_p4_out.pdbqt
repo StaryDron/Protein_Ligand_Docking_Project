@@ -1,0 +1,216 @@
+MODEL 1
+REMARK VINA RESULT:      -3.7      0.000      0.000
+REMARK  Name = .\Carvone.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C7_8  and  C8_9
+REMARK    3  A    between atoms: C7_8  and  C9_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -17.602  60.291  80.969  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNL     1     -18.488  60.676  82.129  0.00  0.00    +0.000 C 
+ATOM      3  C3  UNL     1     -17.929  60.701  83.349  0.00  0.00    +0.000 C 
+ATOM      4  C4  UNL     1     -18.707  61.062  84.535  0.00  0.00    +0.000 C 
+ATOM      5  O1  UNL     1     -18.161  61.079  85.670  0.00  0.00    +0.000 OA
+ATOM      6  C5  UNL     1     -20.120  61.403  84.397  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1     -20.704  61.389  83.198  0.00  0.00    +0.000 C 
+ATOM      8  C7  UNL     1     -19.973  61.026  81.911  0.00  0.00    +0.000 C 
+ATOM      9  C8  UNL     1     -20.702  59.814  81.297  0.00  0.00    +0.000 C 
+ATOM     10  C9  UNL     1     -20.084  62.236  80.964  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -3.7      2.379      3.893
+REMARK  Name = .\Carvone.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C7_8  and  C8_9
+REMARK    3  A    between atoms: C7_8  and  C9_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -18.864  61.916  85.171  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNL     1     -18.658  60.766  84.215  0.00  0.00    +0.000 C 
+ATOM      3  C3  UNL     1     -18.163  61.055  83.002  0.00  0.00    +0.000 C 
+ATOM      4  C4  UNL     1     -17.929  60.007  82.007  0.00  0.00    +0.000 C 
+ATOM      5  O1  UNL     1     -17.463  60.301  80.875  0.00  0.00    +0.000 OA
+ATOM      6  C5  UNL     1     -18.238  58.618  82.334  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1     -18.730  58.299  83.531  0.00  0.00    +0.000 C 
+ATOM      8  C7  UNL     1     -19.006  59.322  84.627  0.00  0.00    +0.000 C 
+ATOM      9  C8  UNL     1     -20.506  59.231  84.971  0.00  0.00    +0.000 C 
+ATOM     10  C9  UNL     1     -18.164  58.919  85.853  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.6      1.254      2.635
+REMARK  Name = .\Carvone.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C7_8  and  C8_9
+REMARK    3  A    between atoms: C7_8  and  C9_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -20.671  61.838  81.896  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNL     1     -19.884  61.359  83.091  0.00  0.00    +0.000 C 
+ATOM      3  C3  UNL     1     -20.087  61.992  84.257  0.00  0.00    +0.000 C 
+ATOM      4  C4  UNL     1     -19.370  61.599  85.470  0.00  0.00    +0.000 C 
+ATOM      5  O1  UNL     1     -19.577  62.207  86.553  0.00  0.00    +0.000 OA
+ATOM      6  C5  UNL     1     -18.412  60.498  85.420  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1     -18.189  59.848  84.277  0.00  0.00    +0.000 C 
+ATOM      8  C7  UNL     1     -18.888  60.188  82.966  0.00  0.00    +0.000 C 
+ATOM      9  C8  UNL     1     -17.793  60.550  81.943  0.00  0.00    +0.000 C 
+ATOM     10  C9  UNL     1     -19.636  58.923  82.505  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.6      1.688      2.305
+REMARK  Name = .\Carvone.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C7_8  and  C8_9
+REMARK    3  A    between atoms: C7_8  and  C9_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -19.202  57.743  82.165  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNL     1     -18.873  58.847  83.139  0.00  0.00    +0.000 C 
+ATOM      3  C3  UNL     1     -18.670  58.499  84.420  0.00  0.00    +0.000 C 
+ATOM      4  C4  UNL     1     -18.345  59.500  85.437  0.00  0.00    +0.000 C 
+ATOM      5  O1  UNL     1     -18.159  59.149  86.633  0.00  0.00    +0.000 OA
+ATOM      6  C5  UNL     1     -18.239  60.906  85.061  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1     -18.434  61.284  83.798  0.00  0.00    +0.000 C 
+ATOM      8  C7  UNL     1     -18.775  60.313  82.673  0.00  0.00    +0.000 C 
+ATOM      9  C8  UNL     1     -20.128  60.756  82.081  0.00  0.00    +0.000 C 
+ATOM     10  C9  UNL     1     -17.672  60.442  81.605  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.5      2.394      3.899
+REMARK  Name = .\Carvone.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C7_8  and  C8_9
+REMARK    3  A    between atoms: C7_8  and  C9_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -21.104  61.930  83.098  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNL     1     -19.953  61.360  82.305  0.00  0.00    +0.000 C 
+ATOM      3  C3  UNL     1     -19.841  61.739  81.022  0.00  0.00    +0.000 C 
+ATOM      4  C4  UNL     1     -18.758  61.240  80.174  0.00  0.00    +0.000 C 
+ATOM      5  O1  UNL     1     -18.672  61.610  78.973  0.00  0.00    +0.000 OA
+ATOM      6  C5  UNL     1     -17.776  60.310  80.726  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1     -17.860  59.915  81.996  0.00  0.00    +0.000 C 
+ATOM      8  C7  UNL     1     -18.952  60.382  82.952  0.00  0.00    +0.000 C 
+ATOM      9  C8  UNL     1     -19.701  59.126  83.440  0.00  0.00    +0.000 C 
+ATOM     10  C9  UNL     1     -18.256  61.070  84.142  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.4      1.905      3.419
+REMARK  Name = .\Carvone.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C7_8  and  C8_9
+REMARK    3  A    between atoms: C7_8  and  C9_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -18.120  59.240  85.589  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNL     1     -18.590  59.975  84.358  0.00  0.00    +0.000 C 
+ATOM      3  C3  UNL     1     -17.912  59.763  83.218  0.00  0.00    +0.000 C 
+ATOM      4  C4  UNL     1     -18.293  60.430  81.972  0.00  0.00    +0.000 C 
+ATOM      5  O1  UNL     1     -17.643  60.216  80.915  0.00  0.00    +0.000 OA
+ATOM      6  C5  UNL     1     -19.431  61.345  81.960  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1     -20.125  61.576  83.075  0.00  0.00    +0.000 C 
+ATOM      8  C7  UNL     1     -19.801  60.927  84.416  0.00  0.00    +0.000 C 
+ATOM      9  C8  UNL     1     -19.514  62.063  85.417  0.00  0.00    +0.000 C 
+ATOM     10  C9  UNL     1     -21.052  60.144  84.860  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.4      2.492      3.818
+REMARK  Name = .\Carvone.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C7_8  and  C8_9
+REMARK    3  A    between atoms: C7_8  and  C9_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -19.868  57.234  83.874  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNL     1     -19.176  58.540  83.568  0.00  0.00    +0.000 C 
+ATOM      3  C3  UNL     1     -18.756  58.734  82.308  0.00  0.00    +0.000 C 
+ATOM      4  C4  UNL     1     -18.074  59.969  81.915  0.00  0.00    +0.000 C 
+ATOM      5  O1  UNL     1     -17.690  60.129  80.727  0.00  0.00    +0.000 OA
+ATOM      6  C5  UNL     1     -17.842  61.014  82.908  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1     -18.248  60.851  84.168  0.00  0.00    +0.000 C 
+ATOM      8  C7  UNL     1     -18.964  59.601  84.666  0.00  0.00    +0.000 C 
+ATOM      9  C8  UNL     1     -18.108  59.004  85.801  0.00  0.00    +0.000 C 
+ATOM     10  C9  UNL     1     -20.330  60.047  85.222  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.3      1.683      2.523
+REMARK  Name = .\Carvone.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C7_8  and  C8_9
+REMARK    3  A    between atoms: C7_8  and  C9_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -17.745  58.728  84.965  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNL     1     -18.612  59.961  84.886  0.00  0.00    +0.000 C 
+ATOM      3  C3  UNL     1     -18.893  60.591  86.038  0.00  0.00    +0.000 C 
+ATOM      4  C4  UNL     1     -19.725  61.795  86.062  0.00  0.00    +0.000 C 
+ATOM      5  O1  UNL     1     -19.975  62.370  87.154  0.00  0.00    +0.000 OA
+ATOM      6  C5  UNL     1     -20.264  62.327  84.814  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1     -20.003  61.724  83.654  0.00  0.00    +0.000 C 
+ATOM      8  C7  UNL     1     -19.147  60.468  83.533  0.00  0.00    +0.000 C 
+ATOM      9  C8  UNL     1     -20.024  59.378  82.884  0.00  0.00    +0.000 C 
+ATOM     10  C9  UNL     1     -17.965  60.807  82.605  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.2      2.373      3.831
+REMARK  Name = .\Carvone.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C7_8  and  C8_9
+REMARK    3  A    between atoms: C7_8  and  C9_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -21.080  59.481  85.580  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNL     1     -20.054  59.521  84.473  0.00  0.00    +0.000 C 
+ATOM      3  C3  UNL     1     -19.845  58.387  83.787  0.00  0.00    +0.000 C 
+ATOM      4  C4  UNL     1     -18.871  58.328  82.696  0.00  0.00    +0.000 C 
+ATOM      5  O1  UNL     1     -18.691  57.252  82.065  0.00  0.00    +0.000 OA
+ATOM      6  C5  UNL     1     -18.108  59.521  82.342  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1     -18.293  60.663  83.004  0.00  0.00    +0.000 C 
+ATOM      8  C7  UNL     1     -19.284  60.817  84.152  0.00  0.00    +0.000 C 
+ATOM      9  C8  UNL     1     -18.483  61.261  85.392  0.00  0.00    +0.000 C 
+ATOM     10  C9  UNL     1     -20.280  61.923  83.752  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL

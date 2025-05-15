@@ -1,0 +1,224 @@
+MODEL 1
+REMARK VINA RESULT:       1.4      0.000      0.000
+REMARK  Name = .\Carvacrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  C3_3
+REMARK    3  A    between atoms: C2_2  and  C4_4
+REMARK    4  A    between atoms: C6_6  and  O1_11
+REMARK    5  A    between atoms: C7_7  and  C10_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -5.020  78.532  90.038  0.00  0.00    +0.000 A 
+ATOM      2  C5  UNL     1      -5.382  78.153  88.734  0.00  0.00    +0.000 A 
+ATOM      3  C6  UNL     1      -4.621  77.213  88.025  0.00  0.00    +0.000 A 
+ATOM      4  C7  UNL     1      -3.483  76.639  88.617  0.00  0.00    +0.000 A 
+ATOM      5  C8  UNL     1      -3.119  77.017  89.919  0.00  0.00    +0.000 A 
+ATOM      6  C9  UNL     1      -3.880  77.953  90.623  0.00  0.00    +0.000 A 
+ATOM      7  C10 UNL     1      -2.662  75.632  87.863  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   9
+ATOM      8  C1  UNL     1      -7.347  79.380  90.483  0.00  0.00    +0.000 C 
+ATOM      9  C2  UNL     1      -5.855  79.551  90.792  0.00  0.00    +0.000 C 
+ATOM     10  C3  UNL     1      -5.591  79.475  92.301  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+BRANCH   3  11
+ATOM     11  O1  UNL     1      -4.993  76.847  86.731  0.00  0.00    +0.000 OA
+ATOM     12  H14 UNL     1      -4.327  76.848  85.966  0.00  0.00    +0.000 HD
+ENDBRANCH   3  11
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:       1.6      1.394      2.032
+REMARK  Name = .\Carvacrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  C3_3
+REMARK    3  A    between atoms: C2_2  and  C4_4
+REMARK    4  A    between atoms: C6_6  and  O1_11
+REMARK    5  A    between atoms: C7_7  and  C10_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -5.064  78.377  89.403  0.00  0.00    +0.000 A 
+ATOM      2  C5  UNL     1      -3.986  77.586  89.834  0.00  0.00    +0.000 A 
+ATOM      3  C6  UNL     1      -3.394  76.652  88.971  0.00  0.00    +0.000 A 
+ATOM      4  C7  UNL     1      -3.879  76.500  87.661  0.00  0.00    +0.000 A 
+ATOM      5  C8  UNL     1      -4.956  77.289  87.228  0.00  0.00    +0.000 A 
+ATOM      6  C9  UNL     1      -5.543  78.219  88.090  0.00  0.00    +0.000 A 
+ATOM      7  C10 UNL     1      -3.250  75.502  86.732  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   9
+ATOM      8  C1  UNL     1      -7.221  79.256  90.355  0.00  0.00    +0.000 C 
+ATOM      9  C2  UNL     1      -5.693  79.383  90.349  0.00  0.00    +0.000 C 
+ATOM     10  C3  UNL     1      -5.122  79.243  91.766  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+BRANCH   3  11
+ATOM     11  O1  UNL     1      -2.325  75.872  89.414  0.00  0.00    +0.000 OA
+ATOM     12  H14 UNL     1      -1.440  76.287  89.683  0.00  0.00    +0.000 HD
+ENDBRANCH   3  11
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:       2.1      1.595      4.278
+REMARK  Name = .\Carvacrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  C3_3
+REMARK    3  A    between atoms: C2_2  and  C4_4
+REMARK    4  A    between atoms: C6_6  and  O1_11
+REMARK    5  A    between atoms: C7_7  and  C10_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -4.189  77.373  88.654  0.00  0.00    +0.000 A 
+ATOM      2  C5  UNL     1      -5.377  78.123  88.635  0.00  0.00    +0.000 A 
+ATOM      3  C6  UNL     1      -5.776  78.864  89.758  0.00  0.00    +0.000 A 
+ATOM      4  C7  UNL     1      -4.983  78.859  90.919  0.00  0.00    +0.000 A 
+ATOM      5  C8  UNL     1      -3.796  78.111  90.940  0.00  0.00    +0.000 A 
+ATOM      6  C9  UNL     1      -3.402  77.375  89.820  0.00  0.00    +0.000 A 
+ATOM      7  C10 UNL     1      -5.403  79.650  92.125  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   9
+ATOM      8  C1  UNL     1      -2.743  75.503  87.795  0.00  0.00    +0.000 C 
+ATOM      9  C2  UNL     1      -3.773  76.578  87.431  0.00  0.00    +0.000 C 
+ATOM     10  C3  UNL     1      -4.991  75.963  86.731  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+BRANCH   3  11
+ATOM     11  O1  UNL     1      -6.958  79.603  89.723  0.00  0.00    +0.000 OA
+ATOM     12  H14 UNL     1      -7.048  80.437  89.154  0.00  0.00    +0.000 HD
+ENDBRANCH   3  11
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:       2.6      1.919      4.620
+REMARK  Name = .\Carvacrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  C3_3
+REMARK    3  A    between atoms: C2_2  and  C4_4
+REMARK    4  A    between atoms: C6_6  and  O1_11
+REMARK    5  A    between atoms: C7_7  and  C10_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -3.982  77.165  88.620  0.00  0.00    +0.000 A 
+ATOM      2  C5  UNL     1      -4.360  76.510  89.805  0.00  0.00    +0.000 A 
+ATOM      3  C6  UNL     1      -5.067  77.192  90.806  0.00  0.00    +0.000 A 
+ATOM      4  C7  UNL     1      -5.404  78.545  90.629  0.00  0.00    +0.000 A 
+ATOM      5  C8  UNL     1      -5.028  79.201  89.447  0.00  0.00    +0.000 A 
+ATOM      6  C9  UNL     1      -4.324  78.519  88.452  0.00  0.00    +0.000 A 
+ATOM      7  C10 UNL     1      -6.161  79.282  91.697  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   9
+ATOM      8  C1  UNL     1      -2.056  75.615  88.153  0.00  0.00    +0.000 C 
+ATOM      9  C2  UNL     1      -3.217  76.412  87.547  0.00  0.00    +0.000 C 
+ATOM     10  C3  UNL     1      -4.150  75.502  86.739  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+BRANCH   3  11
+ATOM     11  O1  UNL     1      -5.435  76.529  91.977  0.00  0.00    +0.000 OA
+ATOM     12  H14 UNL     1      -5.149  75.573  92.158  0.00  0.00    +0.000 HD
+ENDBRANCH   3  11
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:       2.7      2.495      4.448
+REMARK  Name = .\Carvacrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  C3_3
+REMARK    3  A    between atoms: C2_2  and  C4_4
+REMARK    4  A    between atoms: C6_6  and  O1_11
+REMARK    5  A    between atoms: C7_7  and  C10_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -5.075  78.339  90.111  0.00  0.00    +0.000 A 
+ATOM      2  C5  UNL     1      -4.969  77.123  90.808  0.00  0.00    +0.000 A 
+ATOM      3  C6  UNL     1      -5.918  76.769  91.778  0.00  0.00    +0.000 A 
+ATOM      4  C7  UNL     1      -6.989  77.634  92.062  0.00  0.00    +0.000 A 
+ATOM      5  C8  UNL     1      -7.097  78.848  91.367  0.00  0.00    +0.000 A 
+ATOM      6  C9  UNL     1      -6.150  79.198  90.401  0.00  0.00    +0.000 A 
+ATOM      7  C10 UNL     1      -8.009  77.261  93.099  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   9
+ATOM      8  C1  UNL     1      -3.499  77.457  88.360  0.00  0.00    +0.000 C 
+ATOM      9  C2  UNL     1      -4.040  78.707  89.065  0.00  0.00    +0.000 C 
+ATOM     10  C3  UNL     1      -4.607  79.710  88.053  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+BRANCH   3  11
+ATOM     11  O1  UNL     1      -5.799  75.559  92.462  0.00  0.00    +0.000 OA
+ATOM     12  H14 UNL     1      -6.050  75.475  93.441  0.00  0.00    +0.000 HD
+ENDBRANCH   3  11
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:       2.7      2.245      3.197
+REMARK  Name = .\Carvacrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  C3_3
+REMARK    3  A    between atoms: C2_2  and  C4_4
+REMARK    4  A    between atoms: C6_6  and  O1_11
+REMARK    5  A    between atoms: C7_7  and  C10_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -5.909  77.721  91.537  0.00  0.00    +0.000 A 
+ATOM      2  C5  UNL     1      -4.790  77.223  90.849  0.00  0.00    +0.000 A 
+ATOM      3  C6  UNL     1      -4.250  77.920  89.758  0.00  0.00    +0.000 A 
+ATOM      4  C7  UNL     1      -4.831  79.131  89.342  0.00  0.00    +0.000 A 
+ATOM      5  C8  UNL     1      -5.949  79.631  90.028  0.00  0.00    +0.000 A 
+ATOM      6  C9  UNL     1      -6.483  78.934  91.114  0.00  0.00    +0.000 A 
+ATOM      7  C10 UNL     1      -4.259  79.883  88.175  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   9
+ATOM      8  C1  UNL     1      -8.011  77.020  92.728  0.00  0.00    +0.000 C 
+ATOM      9  C2  UNL     1      -6.480  76.954  92.715  0.00  0.00    +0.000 C 
+ATOM     10  C3  UNL     1      -5.989  75.502  92.720  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+BRANCH   3  11
+ATOM     11  O1  UNL     1      -3.139  77.412  89.085  0.00  0.00    +0.000 OA
+ATOM     12  H14 UNL     1      -3.219  76.636  88.438  0.00  0.00    +0.000 HD
+ENDBRANCH   3  11
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:       3.5      1.755      2.314
+REMARK  Name = .\Carvacrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  C3_3
+REMARK    3  A    between atoms: C2_2  and  C4_4
+REMARK    4  A    between atoms: C6_6  and  O1_11
+REMARK    5  A    between atoms: C7_7  and  C10_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  UNL     1      -5.793  78.518  90.289  0.00  0.00    +0.000 A 
+ATOM      2  C5  UNL     1      -4.719  77.988  91.024  0.00  0.00    +0.000 A 
+ATOM      3  C6  UNL     1      -3.668  77.322  90.377  0.00  0.00    +0.000 A 
+ATOM      4  C7  UNL     1      -3.682  77.179  88.979  0.00  0.00    +0.000 A 
+ATOM      5  C8  UNL     1      -4.754  77.707  88.242  0.00  0.00    +0.000 A 
+ATOM      6  C9  UNL     1      -5.799  78.370  88.890  0.00  0.00    +0.000 A 
+ATOM      7  C10 UNL     1      -2.560  76.467  88.279  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   9
+ATOM      8  C1  UNL     1      -8.009  79.678  90.018  0.00  0.00    +0.000 C 
+ATOM      9  C2  UNL     1      -6.922  79.235  91.005  0.00  0.00    +0.000 C 
+ATOM     10  C3  UNL     1      -7.511  78.365  92.122  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+BRANCH   3  11
+ATOM     11  O1  UNL     1      -2.609  76.801  91.120  0.00  0.00    +0.000 OA
+ATOM     12  H14 UNL     1      -2.755  76.088  91.826  0.00  0.00    +0.000 HD
+ENDBRANCH   3  11
+TORSDOF 2
+ENDMDL

@@ -1,0 +1,252 @@
+MODEL 1
+REMARK VINA RESULT:      -4.1      0.000      0.000
+REMARK  Name = .\Caffeine.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N3_9  and  C8_14
+REMARK    3  A    between atoms: N4_12  and  C7_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -12.256  33.639  38.905  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -12.278  34.807  39.780  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -11.485  35.904  39.697  0.00  0.00    +0.000 C 
+ATOM      4  N2  UNL     1     -11.734  36.817  40.671  0.00  0.00    +0.000 NA
+ATOM      5  C3  UNL     1     -12.730  36.242  41.375  0.00  0.00    +0.000 C 
+ATOM      6  C4  UNL     1     -13.057  35.039  40.849  0.00  0.00    +0.000 C 
+ATOM      7  C5  UNL     1     -14.045  34.259  41.435  0.00  0.00    +0.000 C 
+ATOM      8  O1  UNL     1     -14.336  33.129  40.957  0.00  0.00    +0.000 OA
+ATOM      9  N3  UNL     1     -14.685  34.750  42.551  0.00  0.00    +0.000 N 
+ATOM     10  C6  UNL     1     -14.311  35.971  43.089  0.00  0.00    +0.000 C 
+ATOM     11  O2  UNL     1     -14.857  36.382  44.152  0.00  0.00    +0.000 OA
+ATOM     12  N4  UNL     1     -13.342  36.743  42.481  0.00  0.00    +0.000 N 
+ATOM     13  C7  UNL     1     -12.923  38.027  43.056  0.00  0.00    +0.000 C 
+ATOM     14  C8  UNL     1     -15.711  33.936  43.224  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.0      3.521      5.998
+REMARK  Name = .\Caffeine.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N3_9  and  C8_14
+REMARK    3  A    between atoms: N4_12  and  C7_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -12.599  40.116  48.361  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -12.413  39.663  46.987  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -11.500  40.118  46.094  0.00  0.00    +0.000 C 
+ATOM      4  N2  UNL     1     -11.587  39.509  44.883  0.00  0.00    +0.000 NA
+ATOM      5  C3  UNL     1     -12.604  38.640  45.057  0.00  0.00    +0.000 C 
+ATOM      6  C4  UNL     1     -13.103  38.729  46.311  0.00  0.00    +0.000 C 
+ATOM      7  C5  UNL     1     -14.177  37.940  46.700  0.00  0.00    +0.000 C 
+ATOM      8  O1  UNL     1     -14.657  38.038  47.863  0.00  0.00    +0.000 OA
+ATOM      9  N3  UNL     1     -14.705  37.060  45.781  0.00  0.00    +0.000 N 
+ATOM     10  C6  UNL     1     -14.196  37.008  44.493  0.00  0.00    +0.000 C 
+ATOM     11  O2  UNL     1     -14.730  36.248  43.637  0.00  0.00    +0.000 OA
+ATOM     12  N4  UNL     1     -13.115  37.785  44.130  0.00  0.00    +0.000 N 
+ATOM     13  C7  UNL     1     -12.583  37.754  42.762  0.00  0.00    +0.000 C 
+ATOM     14  C8  UNL     1     -15.869  36.234  46.143  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.9      1.466      3.012
+REMARK  Name = .\Caffeine.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N3_9  and  C8_14
+REMARK    3  A    between atoms: N4_12  and  C7_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -11.795  34.495  38.710  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -12.782  34.163  39.733  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -13.550  33.048  39.795  0.00  0.00    +0.000 C 
+ATOM      4  N2  UNL     1     -14.390  33.037  40.862  0.00  0.00    +0.000 NA
+ATOM      5  C3  UNL     1     -14.113  34.205  41.476  0.00  0.00    +0.000 C 
+ATOM      6  C4  UNL     1     -13.154  34.884  40.804  0.00  0.00    +0.000 C 
+ATOM      7  C5  UNL     1     -12.731  36.130  41.247  0.00  0.00    +0.000 C 
+ATOM      8  O1  UNL     1     -11.853  36.773  40.610  0.00  0.00    +0.000 OA
+ATOM      9  N3  UNL     1     -13.304  36.642  42.390  0.00  0.00    +0.000 N 
+ATOM     10  C6  UNL     1     -14.304  35.942  43.044  0.00  0.00    +0.000 C 
+ATOM     11  O2  UNL     1     -14.871  36.450  44.052  0.00  0.00    +0.000 OA
+ATOM     12  N4  UNL     1     -14.697  34.695  42.601  0.00  0.00    +0.000 N 
+ATOM     13  C7  UNL     1     -15.773  33.955  43.273  0.00  0.00    +0.000 C 
+ATOM     14  C8  UNL     1     -12.910  37.977  42.871  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.8      1.774      4.531
+REMARK  Name = .\Caffeine.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N3_9  and  C8_14
+REMARK    3  A    between atoms: N4_12  and  C7_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -13.213  37.653  42.936  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -13.838  36.348  42.744  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -14.766  35.763  43.541  0.00  0.00    +0.000 C 
+ATOM      4  N2  UNL     1     -15.142  34.532  43.107  0.00  0.00    +0.000 NA
+ATOM      5  C3  UNL     1     -14.404  34.369  41.990  0.00  0.00    +0.000 C 
+ATOM      6  C4  UNL     1     -13.621  35.450  41.770  0.00  0.00    +0.000 C 
+ATOM      7  C5  UNL     1     -12.757  35.485  40.683  0.00  0.00    +0.000 C 
+ATOM      8  O1  UNL     1     -12.011  36.484  40.490  0.00  0.00    +0.000 OA
+ATOM      9  N3  UNL     1     -12.732  34.399  39.836  0.00  0.00    +0.000 N 
+ATOM     10  C6  UNL     1     -13.522  33.292  40.099  0.00  0.00    +0.000 C 
+ATOM     11  O2  UNL     1     -13.443  32.274  39.355  0.00  0.00    +0.000 OA
+ATOM     12  N4  UNL     1     -14.390  33.283  41.171  0.00  0.00    +0.000 N 
+ATOM     13  C7  UNL     1     -15.214  32.105  41.472  0.00  0.00    +0.000 C 
+ATOM     14  C8  UNL     1     -11.802  34.382  38.695  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.8      3.809      6.519
+REMARK  Name = .\Caffeine.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N3_9  and  C8_14
+REMARK    3  A    between atoms: N4_12  and  C7_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -11.439  40.252  47.547  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -12.576  39.348  47.403  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -13.455  38.983  48.368  0.00  0.00    +0.000 C 
+ATOM      4  N2  UNL     1     -14.397  38.110  47.928  0.00  0.00    +0.000 NA
+ATOM      5  C3  UNL     1     -14.071  37.942  46.631  0.00  0.00    +0.000 C 
+ATOM      6  C4  UNL     1     -12.980  38.678  46.312  0.00  0.00    +0.000 C 
+ATOM      7  C5  UNL     1     -12.453  38.635  45.028  0.00  0.00    +0.000 C 
+ATOM      8  O1  UNL     1     -11.424  39.304  44.736  0.00  0.00    +0.000 OA
+ATOM      9  N3  UNL     1     -13.076  37.838  44.094  0.00  0.00    +0.000 N 
+ATOM     10  C6  UNL     1     -14.173  37.071  44.453  0.00  0.00    +0.000 C 
+ATOM     11  O2  UNL     1     -14.697  36.291  43.608  0.00  0.00    +0.000 OA
+ATOM     12  N4  UNL     1     -14.697  37.142  45.727  0.00  0.00    +0.000 N 
+ATOM     13  C7  UNL     1     -15.844  36.315  46.124  0.00  0.00    +0.000 C 
+ATOM     14  C8  UNL     1     -12.524  37.735  42.733  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.8      2.937      5.378
+REMARK  Name = .\Caffeine.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N3_9  and  C8_14
+REMARK    3  A    between atoms: N4_12  and  C7_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -11.805  39.846  45.368  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -12.892  38.956  45.763  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -13.539  38.937  46.954  0.00  0.00    +0.000 C 
+ATOM      4  N2  UNL     1     -14.497  37.976  47.025  0.00  0.00    +0.000 NA
+ATOM      5  C3  UNL     1     -14.425  37.389  45.814  0.00  0.00    +0.000 C 
+ATOM      6  C4  UNL     1     -13.465  37.968  45.056  0.00  0.00    +0.000 C 
+ATOM      7  C5  UNL     1     -13.201  37.502  43.775  0.00  0.00    +0.000 C 
+ATOM      8  O1  UNL     1     -12.293  38.028  43.076  0.00  0.00    +0.000 OA
+ATOM      9  N3  UNL     1     -13.949  36.448  43.299  0.00  0.00    +0.000 N 
+ATOM     10  C6  UNL     1     -14.905  35.852  44.105  0.00  0.00    +0.000 C 
+ATOM     11  O2  UNL     1     -15.539  34.843  43.685  0.00  0.00    +0.000 OA
+ATOM     12  N4  UNL     1     -15.169  36.342  45.367  0.00  0.00    +0.000 N 
+ATOM     13  C7  UNL     1     -16.164  35.702  46.238  0.00  0.00    +0.000 C 
+ATOM     14  C8  UNL     1     -13.674  35.899  41.961  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.8      1.782      2.723
+REMARK  Name = .\Caffeine.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N3_9  and  C8_14
+REMARK    3  A    between atoms: N4_12  and  C7_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -11.940  36.848  40.688  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -12.751  36.934  41.898  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -12.745  37.933  42.815  0.00  0.00    +0.000 C 
+ATOM      4  N2  UNL     1     -13.602  37.715  43.847  0.00  0.00    +0.000 NA
+ATOM      5  C3  UNL     1     -14.154  36.526  43.533  0.00  0.00    +0.000 C 
+ATOM      6  C4  UNL     1     -13.647  36.052  42.372  0.00  0.00    +0.000 C 
+ATOM      7  C5  UNL     1     -14.058  34.823  41.872  0.00  0.00    +0.000 C 
+ATOM      8  O1  UNL     1     -13.570  34.372  40.800  0.00  0.00    +0.000 OA
+ATOM      9  N3  UNL     1     -14.999  34.114  42.584  0.00  0.00    +0.000 N 
+ATOM     10  C6  UNL     1     -15.481  34.605  43.786  0.00  0.00    +0.000 C 
+ATOM     11  O2  UNL     1     -16.293  33.916  44.466  0.00  0.00    +0.000 OA
+ATOM     12  N4  UNL     1     -15.078  35.838  44.257  0.00  0.00    +0.000 N 
+ATOM     13  C7  UNL     1     -15.565  36.357  45.541  0.00  0.00    +0.000 C 
+ATOM     14  C8  UNL     1     -15.432  32.789  42.107  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.7      2.021      3.965
+REMARK  Name = .\Caffeine.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N3_9  and  C8_14
+REMARK    3  A    between atoms: N4_12  and  C7_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -15.872  33.021  42.828  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -14.908  34.016  42.368  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -14.670  35.234  42.913  0.00  0.00    +0.000 C 
+ATOM      4  N2  UNL     1     -13.723  35.942  42.244  0.00  0.00    +0.000 NA
+ATOM      5  C3  UNL     1     -13.371  35.106  41.247  0.00  0.00    +0.000 C 
+ATOM      6  C4  UNL     1     -14.078  33.954  41.313  0.00  0.00    +0.000 C 
+ATOM      7  C5  UNL     1     -13.894  32.958  40.364  0.00  0.00    +0.000 C 
+ATOM      8  O1  UNL     1     -14.569  31.893  40.414  0.00  0.00    +0.000 OA
+ATOM      9  N3  UNL     1     -12.967  33.171  39.369  0.00  0.00    +0.000 N 
+ATOM     10  C6  UNL     1     -12.276  34.370  39.304  0.00  0.00    +0.000 C 
+ATOM     11  O2  UNL     1     -11.478  34.584  38.349  0.00  0.00    +0.000 OA
+ATOM     12  N4  UNL     1     -12.457  35.341  40.268  0.00  0.00    +0.000 N 
+ATOM     13  C7  UNL     1     -11.747  36.625  40.195  0.00  0.00    +0.000 C 
+ATOM     14  C8  UNL     1     -12.770  32.155  38.321  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.7      3.695      5.612
+REMARK  Name = .\Caffeine.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N3_9  and  C8_14
+REMARK    3  A    between atoms: N4_12  and  C7_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -12.199  37.653  42.342  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -13.155  37.375  43.409  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -14.219  36.537  43.353  0.00  0.00    +0.000 C 
+ATOM      4  N2  UNL     1     -14.934  36.506  44.508  0.00  0.00    +0.000 NA
+ATOM      5  C3  UNL     1     -14.264  37.366  45.300  0.00  0.00    +0.000 C 
+ATOM      6  C4  UNL     1     -13.201  37.891  44.648  0.00  0.00    +0.000 C 
+ATOM      7  C5  UNL     1     -12.383  38.825  45.271  0.00  0.00    +0.000 C 
+ATOM      8  O1  UNL     1     -11.404  39.330  44.656  0.00  0.00    +0.000 OA
+ATOM      9  N3  UNL     1     -12.677  39.186  46.567  0.00  0.00    +0.000 N 
+ATOM     10  C6  UNL     1     -13.789  38.658  47.203  0.00  0.00    +0.000 C 
+ATOM     11  O2  UNL     1     -14.090  39.046  48.367  0.00  0.00    +0.000 OA
+ATOM     12  N4  UNL     1     -14.578  37.715  46.577  0.00  0.00    +0.000 N 
+ATOM     13  C7  UNL     1     -15.771  37.166  47.234  0.00  0.00    +0.000 C 
+ATOM     14  C8  UNL     1     -11.857  40.202  47.248  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
